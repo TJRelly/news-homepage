@@ -50,9 +50,6 @@ Users should be able to:
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .show-menu .nav {
     background: hsla(240, 100%, 5%, 0.3);
