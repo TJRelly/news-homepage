@@ -275,7 +275,6 @@ article section {
 
 /*********** Media *********/
 @media (min-width: 1200px) {
-
     .top,
     .bottom {
         flex-wrap: nowrap;
@@ -306,7 +305,6 @@ article section {
 }
 
 @media (min-width: 800px) {
-
     .show-menu .nav ul:hover {
         width: auto;
     }
