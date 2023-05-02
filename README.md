@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://tjrelly.github.io/news-homepage/)
+- Live Site URL: [https://tjrelly.github.io/news-homepage/](https://tjrelly.github.io/news-homepage/)
 
 ## My process
 
